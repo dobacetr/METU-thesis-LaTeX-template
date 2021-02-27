@@ -32,8 +32,7 @@ Changes
 Credits
 -------
 Original theme:
-Utku Erdoğdu
-Güneş Erkan
+Utku Erdoğdu, Güneş Erkan
 
 Minor updates in this fork: 
 Emre Caglar, Furkan Çengel
