@@ -126,6 +126,7 @@ minus3pt\let\@listi\@listI \let\currentsize=\@normalsize}
 \def\prechapter{
 \setlength{\parindent}{0em}
 \setlength{\parskip}{10pt}
+\newtheorem{•}[•]{•}
 \newpage\global\@topnum\z@
 \@afterindentfalse \secdef\@chapter\@schapter}
 \def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
