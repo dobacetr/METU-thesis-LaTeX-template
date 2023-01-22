@@ -133,7 +133,7 @@
 	\def\@tdepartment{\csname @tdept#1\endcsname}
 }
 \DeclareOption{ceng}{\DeclareDepartment{ceng}}
-\DeclareOption{aee}{\DeclareDepartment{aeee}}
+\DeclareOption{aee}{\DeclareDepartment{aee}}
 \DeclareOption{arme}{\DeclareDepartment{arme}}
 \DeclareOption{arch}{\DeclareDepartment{arch}}
 \DeclareOption{bch}{\DeclareDepartment{bch}}
